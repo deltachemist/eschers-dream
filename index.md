@@ -1,7 +1,5 @@
 ## The story
 
-<img src="https://deltachemist.github.io/eschers-dream/assets/images/ac1.png" width="460">
-
 ![Act 1](assets/images/act1.png)
 
 Milton’s parents have sent him to spend the summer with his great uncle, M. C. Escher. Uncle Escher is a stranger to Milton, and his mansion is dark, drafty, and bizarre. Milton gets lost in the house almost every day. It feels like the house is always changing.
@@ -18,11 +16,9 @@ One night, Milton awakes to sinister whooshing sounds, like the yawn of a monste
 
 ## How to play
 
-Download the game version that suits your operating system (Windows 10 or Linux)
-
-Unzip the the corresponding file: escher-dream-windows.zip or escher-dream-linux.zip
-
-Double click on the file play
+- Download the game version that suits your operating system (Windows 10 or Linux)
+- Unzip the the corresponding file: escher-dream-windows.zip or escher-dream-linux.zip
+- Double click on the file: Escher's Dream.exe for Windows 10, or Escher's Dream.x86_64 for Linux
 
 ### Controls
 
@@ -34,8 +30,4 @@ Double click on the file play
 
 ### Credits
 
-David Garzón Ramos, Mary Katherine Heinrich, Miquel Kegeleirs, and Jonas Kuckling
-
-
-
-
+A game by: [David Garzón Ramos](https://twitter.com/dgarzonramos), Mary Katherine Heinrich, Miquel Kegeleirs, and Jonas Kuckling
