@@ -27,7 +27,7 @@ One night, Milton awakes to sinister whooshing sounds, like the yawn of a monste
 - Press A/D or the arrow keys to move left or right
 - Press Q/E to rotate the world
 - Press R to reset the level
-- Reach th end of the tower to win
+- Reach the end of the tower to win
 - Press Esc to return to the main title
 
 ### Credits
