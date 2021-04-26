@@ -8,7 +8,7 @@ One night, Milton awakes to sinister whooshing sounds, like the yawn of a monste
 
 # The game
 
-# How to play
+## How to play
 
 ### Credits
 
