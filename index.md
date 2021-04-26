@@ -1,5 +1,7 @@
 ## The story
 
+<img src="https://deltachemist.github.io/eschers-dream/assets/images/ac1.png" width="460">
+
 ![Act 1](assets/images/act1.png)
 
 Milton’s parents have sent him to spend the summer with his great uncle, M. C. Escher. Uncle Escher is a stranger to Milton, and his mansion is dark, drafty, and bizarre. Milton gets lost in the house almost every day. It feels like the house is always changing.
