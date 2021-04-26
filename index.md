@@ -19,7 +19,7 @@ One night, Milton awakes to sinister whooshing sounds, like the yawn of a monste
 ## How to play
 
 - Download the game version that suits your operating system (Windows 10 or Linux)
-- Unzip the the corresponding file: escher-dream-windows.zip or escher-dream-linux.zip
+- Unzip the the corresponding file: [eschers-dream-windows.zip](https://drive.google.com/file/d/1IAm8gN4tmAo0Fv3chPJb3MK-XCG6usch/view?usp=sharing) or [eschers-dream-linux.zip](https://drive.google.com/file/d/1ViPaHFCuc4yB4rtethfWn77vD3WZWOp6/view?usp=sharing)
 - Double click on the file: Escher's Dream.exe for Windows 10, or Escher's Dream.x86_64 for Linux
 
 ### Controls
