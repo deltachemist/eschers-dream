@@ -14,6 +14,6 @@ One night, Milton awakes to sinister whooshing sounds, like the yawn of a monste
 
 David Garzón Ramos, Mary Katherin Heinrich, Miquel Kegeleirs, and Jonas Kucling
 
-Developed in less than 72 hours for Ludum Dare 48 :)
+
 
 
