@@ -14,6 +14,8 @@ One night, Milton awakes to sinister whooshing sounds, like the yawn of a monste
 
 ## The game
 
+![Act 3](assets/images/sc2.png)
+
 ## How to play
 
 - Download the game version that suits your operating system (Windows 10 or Linux)
