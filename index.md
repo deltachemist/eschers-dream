@@ -18,6 +18,14 @@ One night, Milton awakes to sinister whooshing sounds, like the yawn of a monste
 
 ## How to play
 
+### Play Online
+
+You can play the game online in your browser. If you [click here](https://deltachemist.itch.io/eschers-dream), you will be redirected to our page in itch.io.
+
+### Download the game
+
+Or, you can also download and play the game in Windows 10 or Linux
+
 - Download the game version that suits your operating system (Windows 10 or Linux)
 - Unzip the the corresponding file: [eschers-dream-windows.zip](https://drive.google.com/file/d/1IAm8gN4tmAo0Fv3chPJb3MK-XCG6usch/view?usp=sharing) or [eschers-dream-linux.zip](https://drive.google.com/file/d/1ViPaHFCuc4yB4rtethfWn77vD3WZWOp6/view?usp=sharing)
 - For Windows 10, double click on the file: Escher's Dream.exe 
